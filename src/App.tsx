@@ -13,7 +13,7 @@ function App() {
       {/* header section */}
       <div className='flex justify-center items-end space-x-2'>
         <span className='text-center italic my-2 text-2xl'>Minimal Todo List </span>
-        <span className='text-gray-400 italic my-2 text-xl'>by ...</span>
+        <span className='text-gray-400 italic my-2 text-xl'>by Chayanon Pitak 630610724</span>
       </div>
 
       {/* todo section */}
@@ -55,7 +55,7 @@ function App() {
       </div>
 
       {/* footer section */}
-      <p className='text-center text-gray-400'> ... </p>
+      <p className='text-center text-gray-400'> Copyleft © 2021 </p>
     </div>
   );
 }
